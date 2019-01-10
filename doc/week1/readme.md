@@ -36,3 +36,18 @@ program 易发生错误之处：
     - crash
     - runs forever
     - produce a answer, but not expected
+
+### 数据对象
+
+Scalar objects:
+
+1. int
+2. float
+3. bool: False, True
+
+操作符：
+
+1. 幂次计算：num**num
+2. and
+3. or
+4. not
