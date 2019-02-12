@@ -51,3 +51,9 @@ Scalar objects:
 2. and
 3. or
 4. not
+
+non-scalar objects:
+
+1. string
+    - index: `'abc'[-1]`
+    - slice: `'abc'[1:3]`
